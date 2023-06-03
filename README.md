@@ -1,5 +1,5 @@
 # OasisInfobyte_May23
-Web Development Internship -Level 1
+Web Development Internship - Level 1
 
 ✔️ Task-1 = Landing Page
 
