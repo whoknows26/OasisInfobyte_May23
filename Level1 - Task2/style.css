@@ -463,7 +463,7 @@ section .title::after {
   font-weight: 600;
 }
 .contact .contact-content .info .sub-title {
-  color: #fff;
+  color: #000;
 }
 .contact .right .text {
   padding-bottom: 10px;
