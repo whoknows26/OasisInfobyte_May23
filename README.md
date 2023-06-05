@@ -7,8 +7,8 @@ Description: A landing page is a standalone page with a call to action goal. We 
 
 ✔️ Task-2 = Portfolio
 
-Description: 
+Description: A dynamic and visually appealing portfolio website created to showcase skills, projects, and achievements.
 
 ✔️ Task-3 = Temperature Converter Website
 
-Description: 
+Description: A user-friendly temperature converter website built for effortlessly convert temperatures between different scales such as Celsius, Kelvin, and Fahrenheit.
